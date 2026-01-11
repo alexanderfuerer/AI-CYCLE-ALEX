@@ -35,51 +35,6 @@ Genau dort arbeiten wir.
 
 
 ================================================================================
-SECTION: Das Problem mit dem Status quo
-================================================================================
-
-Headline:
-Das Problem mit dem Status quo
-
-Content:
-Die meisten Unternehmen behandeln KI wie ein Ereignis. Ein Workshop. Ein Tool. Ein bisschen Hype. Das Ergebnis ist ein Strohfeuer.
-
-Quote:
-"Ein Einmal-Workshop ist wie einmal im Januar ein Salat. Oder einmal kurz ins Fitnessstudio gehen und glauben, das reicht."
-
-Transformation funktioniert anders.
-
-
-================================================================================
-SECTION: Statement (Dark Section)
-================================================================================
-
-Headline:
-KI scheitert nicht an Technik. Sie scheitert an Organisationen.
-
-Content:
-Die Technologie ist nicht das Problem. Die Modelle sind da. Die Tools sind da. Was fehlt, ist:
-
-- Mut
-- Führung
-- Lernkultur
-- System
-
-
-================================================================================
-SECTION: Was der AI-Cycle wirklich ist
-================================================================================
-
-Headline:
-AI Cycle ist kein Produkt, das man kauft und dann abhakt. AI Cycle ist ein Betriebssystem für dein Unternehmen.
-
-Content:
-Ein System, das zeigt, wo du wirklich stehst, konkrete Piloten ermöglicht, KI in Rollen und Prozesse integriert und den Motor am Laufen hält.
-
-Wir bauen nichts für euch – wir bauen es mit euch.
-
-
-================================================================================
 SECTION: Haltung
 ================================================================================
 
