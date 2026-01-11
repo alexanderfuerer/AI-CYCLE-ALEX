@@ -11,11 +11,11 @@ export const Footer: React.FC = () => {
           <div className="flex flex-col lg:flex-row justify-between items-start lg:items-end gap-16 mb-32">
             <div className="max-w-4xl">
               <h2 className="text-5xl md:text-7xl lg:text-8xl font-normal tracking-hc-partner leading-[0.95] mb-12">
-                Kein Pitch.<br />
-                <span className="text-mint/40">Kein Druck.</span>
+                Das ist dein<br />
+                <span className="text-mint/40">nächster Schritt.</span>
               </h2>
               <p className="text-xl md:text-2xl font-light text-glacier/60 max-w-xl leading-relaxed tracking-hc-partner">
-                Ein ehrliches Gespräch darüber, ob der AI Cycle für euer Unternehmen Sinn macht.
+                Lass uns reden – offen, ehrlich und ohne Verkaufsdruck. Wenn der AI Cycle nicht zu euch passt, sagen wir das.
               </p>
             </div>
 
@@ -31,7 +31,7 @@ export const Footer: React.FC = () => {
               href="mailto:contact@ai-cycle.ch"
               className="group flex items-center justify-between w-full py-8 md:py-12 border-b border-white/10 hover:border-poppy transition-colors"
             >
-              <span className="text-3xl md:text-6xl font-light group-hover:pl-4 transition-all duration-500 tracking-hc-partner">Erstgespräch anfragen</span>
+              <span className="text-3xl md:text-6xl font-light group-hover:pl-4 transition-all duration-500 tracking-hc-partner">Kontakt aufnehmen</span>
               <div className="w-12 h-12 md:w-20 md:h-20 rounded-full border border-white/20 flex items-center justify-center group-hover:bg-poppy group-hover:border-poppy transition-all duration-500 group-hover:rotate-45">
                 <ArrowUpRight className="w-6 h-6 md:w-10 md:h-10 text-glacier" strokeWidth={1} />
               </div>

@@ -23,15 +23,13 @@ Headline:
 KI verändert nicht nur, was wir tun. Sie verändert, wie wir zusammenarbeiten.
 
 Content:
-Ein Workshop hier, ein bisschen ChatGPT dort – das ist keine Transformation. Das ist Aktionismus. Und Aktionismus verpufft.
+Ein Workshop hier, ein bisschen ChatGPT dort – das ist keine Transformation. Das ist Aktionismus.
 
-Wer KI ernsthaft nutzen will, muss tiefer ansetzen. KI ist kein IT-Projekt, das man an die Technik delegiert. Sie ist ein neues Paradigma – eine Grundlage, die in alle Bereiche eines Unternehmens greift. Wie ein Betriebssystem.
+KI ist kein IT-Projekt. Sie ist ein neues Paradigma – eine Grundlage, die in alle Bereiche greift. Wie ein Betriebssystem. Das beginnt mit ehrlicher Analyse: Welche Prozesse prägen den Alltag? Wo liegt die DNA des Unternehmens? Erst dann lassen sich KI-Workflows sinnvoll einführen – schrittweise, durchdacht, mit allen Beteiligten.
 
-Das beginnt mit ehrlicher Analyse: Welche Prozesse prägen den Alltag? Wo liegt die eigentliche DNA des Unternehmens? Erst wenn das klar ist, lassen sich KI-Workflows sinnvoll einführen – schrittweise, durchdacht, mit allen Beteiligten.
+Und eines ist entscheidend: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie freizuspielen – für das, was sie besser können als jede Maschine: strategisch denken, kreativ lösen, Beziehungen pflegen.
 
-Denn eines ist entscheidend: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie freizuspielen. Von repetitiven Aufgaben, von Reibungsverlusten, von Arbeit, die niemanden weiterbringt. Damit Raum entsteht für das, was Menschen besser können als jede Maschine: strategisch denken, kreativ lösen, Beziehungen pflegen.
-
-Nicht Effizienz um jeden Preis. Sondern Wirksamkeit durch den richtigen Einsatz menschlicher Stärken.
+Nicht Effizienz um jeden Preis. Sondern Wirksamkeit.
 
 
 ================================================================================
