@@ -35,22 +35,6 @@ Genau dort arbeiten wir.
 
 
 ================================================================================
-SECTION: Statement (Dark Section)
-================================================================================
-
-Headline:
-KI scheitert nicht an Technik. Sie scheitert an Organisationen.
-
-Content:
-Die Technologie ist nicht das Problem. Die Modelle sind da. Die Tools sind da. Was fehlt, ist:
-
-- Mut
-- Führung
-- Lernkultur
-- System
-
-
-================================================================================
 SECTION: Haltung
 ================================================================================
 
