@@ -1,6 +1,16 @@
 import React, { useState } from 'react';
 import { FadeIn } from './FadeIn';
 import { ChevronDown } from 'lucide-react';
+import { Advisor } from '../types';
+
+const advisors: Advisor[] = [
+  { name: "Name Nachname", role: "Expertise", image: "" },
+  { name: "Name Nachname", role: "Expertise", image: "" },
+  { name: "Name Nachname", role: "Expertise", image: "" },
+  { name: "Name Nachname", role: "Expertise", image: "" },
+  { name: "Name Nachname", role: "Expertise", image: "" },
+  { name: "Name Nachname", role: "Expertise", image: "" },
+];
 
 export const Team: React.FC = () => {
   const [alexExpanded, setAlexExpanded] = useState(false);
@@ -80,6 +90,43 @@ export const Team: React.FC = () => {
                 <p className="text-stone-700 font-light leading-relaxed tracking-hc-partner">
                   Als Mitgründer der Cloud Solution GmbH verbinde ich technische Innovation mit betriebswirtschaftlicher Weitsicht, um KMUs auf ihrem Weg in eine digitale Zukunft zu stärken.
                 </p>
+              </div>
+            </div>
+          </div>
+        </FadeIn>
+
+        {/* Advisory Board */}
+        <FadeIn delay={300}>
+          <div className="mt-24 pt-16 border-t border-mist">
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-16">
+              <div className="lg:col-span-4">
+                <h3 className="text-3xl font-normal text-cobalt-dark mb-6 tracking-hc-partner">Advisory Board</h3>
+                <p className="text-stone-600 font-light text-lg leading-relaxed tracking-hc-partner">
+                  Wir arbeiten nicht im luftleeren Raum. Unser Board bringt Perspektiven aus Technologie, Unternehmertum, Organisation und Kultur.
+                </p>
+              </div>
+              <div className="lg:col-span-8">
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-y-12 gap-x-8">
+                  {advisors.map((advisor, idx) => (
+                    <div key={idx} className="flex flex-col gap-4 group">
+                      <div className="w-16 h-16 rounded-full bg-stone-200 flex items-center justify-center">
+                        {advisor.image ? (
+                          <img
+                            src={advisor.image}
+                            alt={advisor.name}
+                            className="w-16 h-16 rounded-full object-cover grayscale opacity-70 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-500"
+                          />
+                        ) : (
+                          <span className="text-stone-400 text-xs font-mono">[ Foto ]</span>
+                        )}
+                      </div>
+                      <div>
+                        <div className="font-medium text-cobalt-dark text-lg group-hover:text-cobalt transition-colors tracking-hc-partner">{advisor.name}</div>
+                        <div className="text-xs text-stone-400 uppercase tracking-wide mt-1">{advisor.role}</div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
           </div>
