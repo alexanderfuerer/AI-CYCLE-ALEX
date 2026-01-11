@@ -35,22 +35,6 @@ Genau dort arbeiten wir.
 
 
 ================================================================================
-SECTION: Das Problem mit dem Status quo
-================================================================================
-
-Headline:
-Das Problem mit dem Status quo
-
-Content:
-Die meisten Unternehmen behandeln KI wie ein Ereignis. Ein Workshop. Ein Tool. Ein bisschen Hype. Das Ergebnis ist ein Strohfeuer.
-
-Quote:
-"Ein Einmal-Workshop ist wie einmal im Januar ein Salat. Oder einmal kurz ins Fitnessstudio gehen und glauben, das reicht."
-
-Transformation funktioniert anders.
-
-
-================================================================================
 SECTION: Statement (Dark Section)
 ================================================================================
 
