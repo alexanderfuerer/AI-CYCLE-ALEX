@@ -28,47 +28,8 @@ function App() {
           }
         />
 
-        <TextSection
-          layout="split"
-          headline="Das Problem mit dem Status quo"
-          content={
-            <>
-              <p>Die meisten Unternehmen behandeln KI wie ein Ereignis. Ein Workshop. Ein Tool. Ein bisschen Hype. Das Ergebnis ist ein Strohfeuer.</p>
-              <blockquote className="text-xl md:text-2xl italic text-cobalt/60 leading-relaxed my-8 pl-6 border-l border-poppy">
-                "Ein Einmal-Workshop ist wie einmal im Januar ein Salat. Oder einmal kurz ins Fitnessstudio gehen und glauben, das reicht."
-              </blockquote>
-              <p>Transformation funktioniert anders.</p>
-            </>
-          }
-        />
 
-        <TextSection
-          dark
-          layout="statement"
-          headline="KI scheitert nicht an Technik. Sie scheitert an Organisationen."
-          content={
-            <div className="space-y-8">
-              <p className="text-glacier/60">Die Technologie ist nicht das Problem. Die Modelle sind da. Die Tools sind da. Was fehlt, ist:</p>
-              <div className="grid grid-cols-2 gap-4">
-                <div className="border-t border-white/10 pt-4 text-glacier">Mut</div>
-                <div className="border-t border-white/10 pt-4 text-glacier">Führung</div>
-                <div className="border-t border-white/10 pt-4 text-glacier">Lernkultur</div>
-                <div className="border-t border-white/10 pt-4 text-glacier">System</div>
-              </div>
-            </div>
-          }
-        />
 
-        <TextSection
-          label="Was der AI-Cycle wirklich ist"
-          headline="AI Cycle ist kein Produkt, das man kauft und dann abhakt. AI Cycle ist ein Betriebssystem für dein Unternehmen."
-          content={
-            <>
-              <p>Ein System, das zeigt, wo du wirklich stehst, konkrete Piloten ermöglicht, KI in Rollen und Prozesse integriert und den Motor am Laufen hält.</p>
-              <p className="font-medium mt-8 text-xl text-cobalt-dark">Wir bauen nichts für euch – wir bauen es mit euch.</p>
-            </>
-          }
-        />
 
         <section className="py-32 md:py-48 px-6 md:px-12 bg-mist">
           <div className="max-w-[1400px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-16 lg:gap-24 items-center">
