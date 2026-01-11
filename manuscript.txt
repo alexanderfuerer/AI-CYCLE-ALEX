@@ -11,12 +11,6 @@ Mach KI zum Betriebssystem deines Unternehmens.
 Subline:
 Der AI Cycle ist der strukturierte Weg, um KI ganzheitlich in deinem Unternehmen zu verankern – mit Substanz statt Strohfeuer.
 
-Badge:
-Maximal 10 Unternehmen / Jahr
-
-CTA:
-Ist das euer Weg?
-
 
 ================================================================================
 SECTION: KI als Fundament
@@ -48,10 +42,10 @@ Label:
 Wie wir arbeiten
 
 Headline:
-In 12 Monaten zum KI-Unternehmen
+Der 12-Monats-Cycle
 
-Subline:
-Der AI Cycle ist kein Projekt mit Anfang und Ende. Er ist ein strukturierter Prozess, der KI dauerhaft in deinem Unternehmen verankert – Schritt für Schritt, Phase für Phase.
+Intro:
+In zwölf Monaten begleiten wir dein Unternehmen durch vier Phasen – von der gemeinsamen Grundlage über gezielte Vertiefung bis zur konkreten Umsetzung und laufenden Weiterentwicklung. Jede Phase baut auf der vorherigen auf. So entsteht kein Strohfeuer, sondern ein System, das trägt.
 
 
 --- PHASE 01: FOUNDATION ---
@@ -66,7 +60,7 @@ Der Eintritt in den Cycle schafft die Basis: Alle Mitarbeitenden erhalten ein ge
 --- PHASE 02: FOCUS ---
 
 Title:
-Focus
+Focus (Deep Dives)
 
 Content:
 Übersetzt das Fundament in die Fachbereiche und macht KI dort wirksam, wo sie echten Hebel bringt. Im Marketing steigern wir Reichweite und Genauigkeit, ohne die Markenidentität zu verlieren. In der Administration reduzieren orchestrierte Prozesse Reibungsverluste und sorgen für klarere Abläufe und spürbare Entlastung.
@@ -78,7 +72,7 @@ Title:
 Build
 
 Content:
-Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops – etwa durch Prozessautomatisierung oder den Bau massgeschneiderter Bots.
+Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops, etwa durch Prozessautomatisierung oder den Bau von Bots.
 
 
 --- PHASE 04: PULSE ---
@@ -87,18 +81,7 @@ Title:
 Pulse
 
 Content:
-Die Versicherung gegen Veralterung. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein System-Check-Webinar: Was ist neu? Was fliegt raus? Und was haben wir intern gelernt?
-
-
---- INFO BOX ---
-
-Headline:
-Umsetzung ohne Dauer-Entscheide
-
-Content:
-In vielen KI-Projekten muss jeder Use Case einzeln genehmigt werden. Das kostet Zeit und tötet Momentum.
-
-Im AI Cycle definieren wir zu Beginn einen klaren Umsetzungsrahmen. Innerhalb dieses Rahmens setzen wir um – ohne jedes Mal neu zu verkaufen.
+Die Versicherung gegen Veralterung hält den Cycle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?
 
 
 ================================================================================
