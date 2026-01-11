@@ -51,19 +51,6 @@ Die Technologie ist nicht das Problem. Die Modelle sind da. Die Tools sind da. W
 
 
 ================================================================================
-SECTION: Was der AI-Cycle wirklich ist
-================================================================================
-
-Headline:
-AI Cycle ist kein Produkt, das man kauft und dann abhakt. AI Cycle ist ein Betriebssystem für dein Unternehmen.
-
-Content:
-Ein System, das zeigt, wo du wirklich stehst, konkrete Piloten ermöglicht, KI in Rollen und Prozesse integriert und den Motor am Laufen hält.
-
-Wir bauen nichts für euch – wir bauen es mit euch.
-
-
-================================================================================
 SECTION: Haltung
 ================================================================================
 
