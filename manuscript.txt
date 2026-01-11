@@ -6,52 +6,30 @@ HERO SECTION
 ================================================================================
 
 Headline:
-KI ist kein Event.
-KI ist ein Betriebssystem.
+Mach KI zum Betriebssystem deines Unternehmens.
 
 Subline:
-Wir verankern KI als produktiven Standard in Unternehmen – begleitet, menschlich und unternehmerisch.
-
-Badge:
-Maximal 10 Unternehmen / Jahr
-
-CTA:
-Passt das zu uns?
+Der AI Cycle ist der strukturierte Weg, um KI ganzheitlich in deinem Unternehmen zu verankern – mit Substanz statt Strohfeuer.
 
 
 ================================================================================
-SECTION: Warum es uns gibt (Context)
-================================================================================
-
-Headline:
-Wir leben in einer Zeit, in der Technologie schneller ist als jede Lernkurve.
-
-Content:
-Nicht, weil Menschen zu langsam sind – sondern weil Entwicklung exponentiell ist.
-
-Das Problem ist nicht die KI. Das Problem ist die Brücke zwischen dem, was technisch möglich ist, und dem, was im Alltag wirklich ankommt.
-
-Genau dort arbeiten wir.
-
-
-================================================================================
-SECTION: Haltung
+SECTION: KI als Fundament
 ================================================================================
 
 Label:
-Haltung
+Unsere Überzeugung
 
 Headline:
-Der Mensch bleibt im Zentrum
+KI verändert nicht nur, was wir tun. Sie verändert, wie wir zusammenarbeiten.
 
 Content:
-Wir glauben nicht, dass sich Menschen der Maschine anpassen müssen. Es ist genau umgekehrt.
+Ein Workshop hier, ein bisschen ChatGPT dort – das ist keine Transformation. Das ist Aktionismus.
 
-KI ist ein Partner. Der Mensch bleibt im Driver Seat.
+KI ist kein IT-Projekt. Sie ist ein neues Paradigma – eine Grundlage, die in alle Bereiche greift. Wie ein Betriebssystem. Das beginnt mit ehrlicher Analyse: Welche Prozesse prägen den Alltag? Wo liegt die DNA des Unternehmens? Erst dann lassen sich KI-Workflows sinnvoll einführen – schrittweise, durchdacht, mit allen Beteiligten.
 
-Grid:
-- Entscheidungen: Menschlich
-- Routine: Automatisiert
+Und eines ist entscheidend: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie freizuspielen – für das, was sie besser können als jede Maschine: strategisch denken, kreativ lösen, Beziehungen pflegen.
+
+Nicht Effizienz um jeden Preis. Sondern Wirksamkeit.
 
 
 ================================================================================
@@ -64,54 +42,57 @@ Wie wir arbeiten
 Headline:
 Der 12-Monats-Cycle
 
-Subline:
-Ziel: KI wird so normal wie E-Mail – nur mächtiger.
+Intro:
+In zwölf Monaten begleiten wir dein Unternehmen durch vier Phasen – von der gemeinsamen Grundlage über gezielte Vertiefung bis zur konkreten Umsetzung und laufenden Weiterentwicklung. Jede Phase baut auf der vorherigen auf. So entsteht kein Strohfeuer, sondern ein System, das trägt.
 
 
 --- PHASE 01: FOUNDATION ---
 
-Der Eintritt in den Circle schafft die Basis: Alle Mitarbeitenden erhalten ein gemeinsames Grundverständnis und eine gemeinsame Sprache rund um KI. So entsteht ein einheitlicher Rahmen für Rollen, Erwartungen und sichere Nutzung. Harte Vorgabe: Ohne dieses Modul darf niemand KI-Tools nutzen, als Schutz vor Datenabfluss und Halluzinationen.
+Title:
+Foundation
+
+Content:
+Der Eintritt in den Cycle schafft die Basis: Alle Mitarbeitenden erhalten ein gemeinsames Grundverständnis und eine gemeinsame Sprache rund um KI. So entsteht ein einheitlicher Rahmen für Rollen, Erwartungen und sichere Nutzung. Harte Vorgabe: Ohne dieses Modul darf niemand KI-Tools nutzen – als Schutz vor Datenabfluss und Halluzinationen.
 
 
---- PHASE 02: FOCUS (Deep Dives) ---
+--- PHASE 02: FOCUS ---
 
+Title:
+Focus (Deep Dives)
+
+Content:
 Übersetzt das Fundament in die Fachbereiche und macht KI dort wirksam, wo sie echten Hebel bringt. Im Marketing steigern wir Reichweite und Genauigkeit, ohne die Markenidentität zu verlieren. In der Administration reduzieren orchestrierte Prozesse Reibungsverluste und sorgen für klarere Abläufe und spürbare Entlastung.
 
 
 --- PHASE 03: BUILD ---
 
+Title:
+Build
+
+Content:
 Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops, etwa durch Prozessautomatisierung oder den Bau von Bots.
 
 
 --- PHASE 04: PULSE ---
 
-Die Versicherung gegen Veralterung hält den Circle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?
-
-
---- INFO BOX: Umsetzung ohne Dauer-Entscheide ---
-
-Headline:
-Umsetzung ohne Dauer-Entscheide
+Title:
+Pulse
 
 Content:
-In vielen KI-Projekten muss jeder Use Case neu genehmigt werden. Im AI Cycle nicht.
-
-Wir definieren zu Beginn einen klaren Umsetzungsrahmen. Innerhalb dieses Rahmens setzen wir um – ohne jedes Mal neu zu verkaufen. Das spart Zeit und schafft Momentum.
+Die Versicherung gegen Veralterung hält den Cycle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?
 
 
 ================================================================================
-SECTION: Qualification (Match / No Match)
+SECTION: Für wen ist der AI Cycle?
 ================================================================================
 
-MATCH:
-- Ihr seid ein KMU mit Ambition
-- Die Geschäftsleitung ist involviert
-- Ihr versteht KI als Dauerlauf
+Headline:
+Für Unternehmen, die es ernst meinen.
 
-NO MATCH:
-- Ihr wollt nur Tools vergleichen
-- Ihr sucht einen einmaligen Workshop
-- Entscheidungen dauern ewig
+Content:
+Der AI Cycle ist nichts für Unternehmen, die nur ein paar Tools ausprobieren wollen. Er ist für alle, die verstanden haben, dass KI kein Trend ist, sondern ein strategischer Hebel.
+
+Wenn du bereit bist, Silodenken hinter dir zu lassen und dein Unternehmen konsequent auf ein AI-First-Modell auszurichten – mit deinem Team, nicht gegen es – dann ist der AI Cycle der richtige Rahmen dafür.
 
 
 ================================================================================
@@ -119,39 +100,25 @@ SECTION: Das Team
 ================================================================================
 
 Label:
-Das Team
+Wer dahinter steht
 
 Headline:
-Wir sind Unternehmer.
-Und wir begleiten Unternehmer.
+Unternehmer, die wissen, wie Unternehmen ticken.
+
+Content:
+Wir sind keine externen Berater, die Konzepte liefern und dann verschwinden. Wir sind Unternehmer mit jahrelanger Erfahrung in KMUs und mittelständischen Betrieben. Wir kennen die Realität von knappen Ressourcen, schnellen Entscheidungen und dem Druck, Ergebnisse zu liefern.
+
+Unser Know-how liegt in Cloud Computing, KI-Strategie und pragmatischer Umsetzung. Und unser Anspruch ist einfach: Wir bauen nichts für euch – wir bauen es mit euch.
 
 
 --- FOUNDERS ---
 
-Thomas Schmidt
-Role: Strategie & Vision
-Bio: Unternehmer seit 15 Jahren. Versteht, dass Technologie nur skaliert, wenn die Kultur folgt. Brückenbauer zwischen Hype und Bilanz.
-
-Sarah Weber
-Role: Operations & Tech
-Bio: Ingenieurin im Herzen. Sorgt dafür, dass aus Ideen funktionierende Prozesse werden. Liebt klare Strukturen und messbare Ergebnisse.
+(Folgt)
 
 
 --- ADVISORY BOARD ---
 
-Headline:
-Advisory Board
-
-Description:
-Wir arbeiten nicht im luftleeren Raum. Unser Board bringt Perspektiven aus Technologie, Unternehmertum, Organisation und Kultur. Nicht operativ, sondern als Sparring.
-
-Members:
-- Dr. K. Miller (Technologie)
-- J. Chen (Ethik)
-- M. Bauer (Organisation)
-- L. Russo (Finanzen)
-- P. Davis (HR)
-- A. Kowalski (Forschung)
+(Folgt)
 
 
 ================================================================================
@@ -159,22 +126,17 @@ SECTION: Footer / Contact
 ================================================================================
 
 Headline:
-Kein Pitch.
-Kein Druck.
+Das ist dein nächster Schritt.
 
 Subline:
-Ein ehrliches Gespräch darüber, ob der AI Cycle für euer Unternehmen Sinn macht.
+Lass uns reden – offen, ehrlich und ohne Verkaufsdruck. Wenn der AI Cycle nicht zu euch passt, sagen wir das.
 
 Pricing:
 Investition: CHF 35'000 / Jahr
-(Start ab, limitiert auf 10 Plätze)
 
 CTA:
-Erstgespräch anfragen
+Kontakt aufnehmen
 Email: contact@ai-cycle.ch
-
-Tagline:
-Wenn wir nicht die Richtigen sind, sagen wir das offen.
 
 
 ================================================================================
