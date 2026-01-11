@@ -34,7 +34,7 @@ export const Team: React.FC = () => {
                 <h3 className="text-2xl font-normal text-cobalt-dark mb-6 tracking-hc-partner">Alexander Fürer</h3>
                 <div className="relative aspect-[3/2] bg-stone-100 overflow-hidden mb-6">
                   <img
-                    src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=800"
+                    src="/Alexander.png"
                     alt="Alexander Fürer"
                     className="w-full h-full object-cover object-top"
                   />
@@ -70,9 +70,16 @@ export const Team: React.FC = () => {
               {/* Ivan Rizzuto */}
               <div>
                 <h3 className="text-2xl font-normal text-cobalt-dark mb-6 tracking-hc-partner">Ivan Rizzuto</h3>
-                <div className="p-8 bg-stone-100 flex items-center justify-center aspect-[3/2]">
-                  <span className="text-stone-400 font-mono text-sm">[ Bild folgt ]</span>
+                <div className="relative aspect-[3/2] bg-stone-100 overflow-hidden mb-6">
+                  <img
+                    src="/Ivan.png"
+                    alt="Ivan Rizzuto"
+                    className="w-full h-full object-cover object-top"
+                  />
                 </div>
+                <p className="text-stone-700 font-light leading-relaxed tracking-hc-partner">
+                  Als Mitgründer der Cloud Solution GmbH verbinde ich technische Innovation mit betriebswirtschaftlicher Weitsicht, um KMUs auf ihrem Weg in eine digitale Zukunft zu stärken.
+                </p>
               </div>
             </div>
           </div>
