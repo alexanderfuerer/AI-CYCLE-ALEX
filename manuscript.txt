@@ -9,13 +9,13 @@ Headline:
 Mach KI zum Betriebssystem deines Unternehmens.
 
 Subline:
-Der AI Cycle begleitet dich dabei – strukturiert, menschlich und unternehmerisch.
+Der AI Cycle ist der strukturierte Weg, um KI ganzheitlich in deinem Unternehmen zu verankern – mit Substanz statt Strohfeuer.
 
 Badge:
 Maximal 10 Unternehmen / Jahr
 
 CTA:
-Ist das der richtige Weg für uns?
+Ist das euer Weg?
 
 
 ================================================================================
@@ -26,22 +26,18 @@ Label:
 Unsere Überzeugung
 
 Headline:
-KI ist kein Tool. KI ist ein neues Betriebssystem.
+KI verändert nicht nur, was wir tun. Sie verändert, wie wir zusammenarbeiten.
 
 Content:
-Es reicht nicht, mal einen Workshop zu besuchen oder einzelne Mitarbeitende mit ChatGPT experimentieren zu lassen. Das ist Symptombekämpfung, kein Wandel.
+Ein Workshop hier, ein bisschen ChatGPT dort – das ist keine Transformation. Das ist Aktionismus. Und Aktionismus verpufft.
 
-Echte KI-Transformation beginnt tiefer: mit einem KI-Mindset als Basis im gesamten Unternehmen. Denn KI ist kein IT-Projekt – es ist ein neues Paradigma, wie wir zusammenarbeiten. In den Teams. Mit der Technologie. Mit Kunden und Partnern.
+Wer KI ernsthaft nutzen will, muss tiefer ansetzen. KI ist kein IT-Projekt, das man an die Technik delegiert. Sie ist ein neues Paradigma – eine Grundlage, die in alle Bereiche eines Unternehmens greift. Wie ein Betriebssystem.
 
-Das erfordert eine gründliche Analyse: Welche Prozesse gibt es? Wo liegt die DNA des Unternehmens? Erst dann lassen sich schrittweise und sorgfältig KI-Workflows einführen – mit Vision, Plan und Einbezug aller Stakeholder.
+Das beginnt mit ehrlicher Analyse: Welche Prozesse prägen den Alltag? Wo liegt die eigentliche DNA des Unternehmens? Erst wenn das klar ist, lassen sich KI-Workflows sinnvoll einführen – schrittweise, durchdacht, mit allen Beteiligten.
 
-Und das Wichtigste: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie zu befähigen. Sie von lästigen, repetitiven Aufgaben zu entlasten – damit sie sich auf das konzentrieren können, was wirklich zählt: strategische Arbeit, kreative Lösungen, persönlicher Austausch.
+Denn eines ist entscheidend: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie freizuspielen. Von repetitiven Aufgaben, von Reibungsverlusten, von Arbeit, die niemanden weiterbringt. Damit Raum entsteht für das, was Menschen besser können als jede Maschine: strategisch denken, kreativ lösen, Beziehungen pflegen.
 
-Weniger Effizienz um der Effizienz willen. Mehr Effektivität durch den richtigen Einsatz menschlicher Stärken.
-
-Grid:
-- Menschen: Befähigen, nicht ersetzen
-- Routinen: Automatisieren, wo sinnvoll
+Nicht Effizienz um jeden Preis. Sondern Wirksamkeit durch den richtigen Einsatz menschlicher Stärken.
 
 
 ================================================================================
@@ -52,10 +48,10 @@ Label:
 Wie wir arbeiten
 
 Headline:
-Der AI Cycle – in 12 Monaten zum KI-Unternehmen
+In 12 Monaten zum KI-Unternehmen
 
 Subline:
-Ein strukturierter Prozess, der KI nachhaltig in deinem Unternehmen verankert. Keine Einmal-Aktion, sondern ein ganzheitlicher Weg.
+Der AI Cycle ist kein Projekt mit Anfang und Ende. Er ist ein strukturierter Prozess, der KI dauerhaft in deinem Unternehmen verankert – Schritt für Schritt, Phase für Phase.
 
 
 --- PHASE 01: FOUNDATION ---
@@ -70,7 +66,7 @@ Der Eintritt in den Cycle schafft die Basis: Alle Mitarbeitenden erhalten ein ge
 --- PHASE 02: FOCUS ---
 
 Title:
-Focus (Deep Dives)
+Focus
 
 Content:
 Übersetzt das Fundament in die Fachbereiche und macht KI dort wirksam, wo sie echten Hebel bringt. Im Marketing steigern wir Reichweite und Genauigkeit, ohne die Markenidentität zu verlieren. In der Administration reduzieren orchestrierte Prozesse Reibungsverluste und sorgen für klarere Abläufe und spürbare Entlastung.
@@ -82,7 +78,7 @@ Title:
 Build
 
 Content:
-Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops, etwa durch Prozessautomatisierung oder den Bau von Bots.
+Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops – etwa durch Prozessautomatisierung oder den Bau massgeschneiderter Bots.
 
 
 --- PHASE 04: PULSE ---
@@ -91,18 +87,18 @@ Title:
 Pulse
 
 Content:
-Die Versicherung gegen Veralterung hält den Cycle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?
+Die Versicherung gegen Veralterung. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein System-Check-Webinar: Was ist neu? Was fliegt raus? Und was haben wir intern gelernt?
 
 
---- INFO BOX: Umsetzung ohne Dauer-Entscheide ---
+--- INFO BOX ---
 
 Headline:
 Umsetzung ohne Dauer-Entscheide
 
 Content:
-In vielen KI-Projekten muss jeder Use Case neu genehmigt werden. Im AI Cycle nicht.
+In vielen KI-Projekten muss jeder Use Case einzeln genehmigt werden. Das kostet Zeit und tötet Momentum.
 
-Wir definieren zu Beginn einen klaren Umsetzungsrahmen. Innerhalb dieses Rahmens setzen wir um – ohne jedes Mal neu zu verkaufen. Das spart Zeit und schafft Momentum.
+Im AI Cycle definieren wir zu Beginn einen klaren Umsetzungsrahmen. Innerhalb dieses Rahmens setzen wir um – ohne jedes Mal neu zu verkaufen.
 
 
 ================================================================================
@@ -110,12 +106,12 @@ SECTION: Für wen ist der AI Cycle?
 ================================================================================
 
 Headline:
-Bereit für echte Transformation?
+Für Unternehmen, die es ernst meinen.
 
 Content:
-Der AI Cycle ist für Unternehmen, die es ernst meinen. Die nicht nur ein paar Tools testen wollen, sondern einen echten Wandel anstreben – weg vom Silodenken, hin zu einem AI-First-Unternehmen.
+Der AI Cycle ist nichts für Unternehmen, die nur ein paar Tools ausprobieren wollen. Er ist für alle, die verstanden haben, dass KI kein Trend ist, sondern ein strategischer Hebel.
 
-Wenn du bereit bist, alte Muster zu hinterfragen, dein Team mitzunehmen und KI als strategischen Hebel zu begreifen – dann ist der AI Cycle der richtige Weg.
+Wenn du bereit bist, Silodenken hinter dir zu lassen und dein Unternehmen konsequent auf ein AI-First-Modell auszurichten – mit deinem Team, nicht gegen es – dann ist der AI Cycle der richtige Rahmen dafür.
 
 
 ================================================================================
@@ -126,20 +122,22 @@ Label:
 Wer dahinter steht
 
 Headline:
-Unternehmer für Unternehmer
+Unternehmer, die wissen, wie Unternehmen ticken.
 
 Content:
-Wir sind keine Berater, die Folien liefern und verschwinden. Wir sind Unternehmer mit Praxis-Erfahrung in KMUs und mittelständischen Betrieben. Wir bringen fundiertes Know-how in Cloud Computing, KI-Strategie und pragmatischer Umsetzung mit – und wissen, wie es sich anfühlt, Verantwortung zu tragen.
+Wir sind keine externen Berater, die Konzepte liefern und dann verschwinden. Wir sind Unternehmer mit jahrelanger Erfahrung in KMUs und mittelständischen Betrieben. Wir kennen die Realität von knappen Ressourcen, schnellen Entscheidungen und dem Druck, Ergebnisse zu liefern.
+
+Unser Know-how liegt in Cloud Computing, KI-Strategie und pragmatischer Umsetzung. Und unser Anspruch ist einfach: Wir bauen nichts für euch – wir bauen es mit euch.
 
 
 --- FOUNDERS ---
 
-(Bios folgen später)
+(Folgt)
 
 
 --- ADVISORY BOARD ---
 
-(Folgt später)
+(Folgt)
 
 
 ================================================================================
@@ -147,10 +145,10 @@ SECTION: Footer / Contact
 ================================================================================
 
 Headline:
-Dein nächster Schritt
+Das ist dein nächster Schritt.
 
 Subline:
-Lass uns über die KI-Transformation in deinem Unternehmen sprechen.
+Lass uns reden – offen, ehrlich und ohne Verkaufsdruck. Wenn der AI Cycle nicht zu euch passt, sagen wir das.
 
 Pricing:
 Investition: CHF 35'000 / Jahr
