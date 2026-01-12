@@ -1,15 +1,86 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" class="scroll-smooth">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FIVE LI Content Flow | LinkedIn Post Generator</title>
+  <title>AI-Cycle | Betriebssystem für Unternehmen</title>
+  <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+          colors: {
+            cobalt: {
+              DEFAULT: '#0047AB',
+              light: '#336BC2',
+              dark: '#003580',
+            },
+            mint: {
+              DEFAULT: '#D1F2EB',
+              light: '#E8F8F5',
+              dark: '#A2DED0',
+            },
+            poppy: {
+              DEFAULT: '#FF3855',
+              light: '#FF6077',
+              dark: '#D92A45',
+            },
+            glacier: '#FAF7F2',
+            mist: '#F2ECE4',
+            stone: {
+              50: '#fafaf9',
+              100: '#f5f5f4',
+              200: '#e7e5e4',
+              300: '#d6d3d1',
+              400: '#a8a29e',
+              500: '#78716c',
+              600: '#57534e',
+              700: '#44403c',
+              800: '#292524',
+              900: '#1c1917',
+            }
+          },
+          letterSpacing: {
+            tighter: '-0.04em',
+            tight: '-0.02em',
+            normal: '0em',
+            wide: '0.02em',
+            widest: '0.1em',
+            'hc-partner': '0.01em',
+            'hc-analyse': '-0.01em',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    /* Custom cursor or other high-end interactions could go here */
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  </style>
+  <script type="module" src="/index.tsx"></script>
 </head>
-<body class="bg-gray-50 text-gray-900 antialiased">
+
+<body class="bg-glacier text-stone-900 antialiased selection:bg-stone-900 selection:text-white">
   <div id="root"></div>
-  <script type="module" src="/src/main.tsx"></script>
 </body>
+
 </html>
