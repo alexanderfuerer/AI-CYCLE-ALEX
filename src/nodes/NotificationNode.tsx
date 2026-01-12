@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { Mail, Loader2, CheckCircle, AlertCircle } from 'lucide-react'
 
 interface NotificationNodeData {
@@ -9,7 +9,11 @@ interface NotificationNodeData {
   employeeEmail?: string
 }
 
-function NotificationNodeComponent({ data }: NodeProps<NotificationNodeData>) {
+interface NotificationNodeProps {
+  data: NotificationNodeData
+}
+
+function NotificationNodeComponent({ data }: NotificationNodeProps) {
   return (
     <div className="custom-node min-w-[280px]">
       <Handle

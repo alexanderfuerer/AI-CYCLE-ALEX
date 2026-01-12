@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { FileText } from 'lucide-react'
 
 interface ContentInputNodeData {
@@ -7,7 +7,11 @@ interface ContentInputNodeData {
   onChange: (content: string) => void
 }
 
-function ContentInputNodeComponent({ data }: NodeProps<ContentInputNodeData>) {
+interface ContentInputNodeProps {
+  data: ContentInputNodeData
+}
+
+function ContentInputNodeComponent({ data }: ContentInputNodeProps) {
   return (
     <div className="custom-node min-w-[320px]">
       <div className="custom-node-header">

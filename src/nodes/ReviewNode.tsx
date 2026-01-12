@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { Edit3, RefreshCw, Save, CheckCircle } from 'lucide-react'
 
 interface ReviewNodeData {
@@ -15,7 +15,11 @@ interface ReviewNodeData {
   isApproved: boolean
 }
 
-function ReviewNodeComponent({ data }: NodeProps<ReviewNodeData>) {
+interface ReviewNodeProps {
+  data: ReviewNodeData
+}
+
+function ReviewNodeComponent({ data }: ReviewNodeProps) {
   const hasContent = !!data.content
   const isModified = data.content !== data.originalContent
 

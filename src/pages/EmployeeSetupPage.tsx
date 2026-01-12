@@ -11,7 +11,7 @@ export function EmployeeSetupPage() {
   const navigate = useNavigate()
   const isNew = id === 'new'
 
-  const { employee, loading: loadingEmployee } = useEmployee(isNew ? undefined : id)
+  const { employee } = useEmployee(isNew ? undefined : id)
   const { styleProfile, loading: loadingProfile, refetch: refetchProfile } = useStyleProfile(isNew ? undefined : id)
   const { create, update, uploadSamples, loading: saving, error: saveError } = useEmployeeMutations()
   const { analyze, analyzing, error: analysisError } = useStyleAnalysis()
@@ -88,7 +88,6 @@ export function EmployeeSetupPage() {
     }
   }
 
-  const loading = loadingEmployee || loadingProfile
   const error = saveError || analysisError
 
   return (

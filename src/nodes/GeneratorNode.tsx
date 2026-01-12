@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { Sparkles, Loader2 } from 'lucide-react'
 
 interface GeneratorNodeData {
@@ -9,7 +9,11 @@ interface GeneratorNodeData {
   onGenerate: () => void
 }
 
-function GeneratorNodeComponent({ data }: NodeProps<GeneratorNodeData>) {
+interface GeneratorNodeProps {
+  data: GeneratorNodeData
+}
+
+function GeneratorNodeComponent({ data }: GeneratorNodeProps) {
   return (
     <div className="custom-node min-w-[280px]">
       <Handle

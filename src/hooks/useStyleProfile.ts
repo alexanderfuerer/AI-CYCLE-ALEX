@@ -55,7 +55,7 @@ export function useStyleAnalysis() {
       const result = await analyzeStyle(sampleTexts)
 
       // Save to Firestore
-      const id = await saveStyleProfile(
+      await saveStyleProfile(
         employeeId,
         result.quantitative,
         result.qualitative

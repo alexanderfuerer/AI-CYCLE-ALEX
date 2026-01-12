@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState, useEffect } from 'react'
+import { useCallback, useMemo, useEffect } from 'react'
 import {
   ReactFlow,
   Controls,
@@ -24,7 +24,8 @@ import {
   NotificationNode,
 } from '../nodes'
 
-const nodeTypes = {
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const nodeTypes: Record<string, any> = {
   contentInput: ContentInputNode,
   employeeSelect: EmployeeSelectNode,
   generator: GeneratorNode,

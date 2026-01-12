@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { FileText, Loader2, ExternalLink, AlertCircle } from 'lucide-react'
 
 interface GoogleDocsNodeData {
@@ -8,7 +8,11 @@ interface GoogleDocsNodeData {
   error: string | null
 }
 
-function GoogleDocsNodeComponent({ data }: NodeProps<GoogleDocsNodeData>) {
+interface GoogleDocsNodeProps {
+  data: GoogleDocsNodeData
+}
+
+function GoogleDocsNodeComponent({ data }: GoogleDocsNodeProps) {
   return (
     <div className="custom-node min-w-[280px]">
       <Handle

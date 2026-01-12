@@ -1,5 +1,5 @@
 import { memo } from 'react'
-import { Handle, Position, type NodeProps } from '@xyflow/react'
+import { Handle, Position } from '@xyflow/react'
 import { User, CheckCircle, AlertCircle } from 'lucide-react'
 import type { Employee, StyleProfile } from '../types'
 
@@ -10,8 +10,12 @@ interface EmployeeSelectNodeData {
   onSelect: (employeeId: string) => void
 }
 
-function EmployeeSelectNodeComponent({ data }: NodeProps<EmployeeSelectNodeData>) {
-  const selectedEmployee = data.employees?.find(e => e.id === data.selectedEmployeeId)
+interface EmployeeSelectNodeProps {
+  data: EmployeeSelectNodeData
+}
+
+function EmployeeSelectNodeComponent({ data }: EmployeeSelectNodeProps) {
+  const selectedEmployee = data.employees?.find((e: Employee) => e.id === data.selectedEmployeeId)
 
   return (
     <div className="custom-node min-w-[320px]">
@@ -34,7 +38,7 @@ function EmployeeSelectNodeComponent({ data }: NodeProps<EmployeeSelectNodeData>
           className="w-full px-3 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent bg-white"
         >
           <option value="">Mitarbeiter wählen...</option>
-          {(data.employees || []).map((employee) => (
+          {(data.employees || []).map((employee: Employee) => (
             <option key={employee.id} value={employee.id}>
               {employee.name}
             </option>
