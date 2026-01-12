@@ -1,0 +1,144 @@
+AI-CYCLE MANUSCRIPT
+====================
+
+================================================================================
+HERO SECTION
+================================================================================
+
+Headline:
+Mach KI zum Betriebssystem deines Unternehmens.
+
+Subline:
+Der AI Cycle ist der strukturierte Weg, um KI ganzheitlich in deinem Unternehmen zu verankern – mit Substanz statt Strohfeuer.
+
+
+================================================================================
+SECTION: KI als Fundament
+================================================================================
+
+Label:
+Unsere Überzeugung
+
+Headline:
+KI verändert nicht nur, was wir tun. Sie verändert, wie wir zusammenarbeiten.
+
+Content:
+Ein Workshop hier, ein bisschen ChatGPT dort – das ist keine Transformation. Das ist Aktionismus.
+
+KI ist kein IT-Projekt. Sie ist ein neues Paradigma – eine Grundlage, die in alle Bereiche greift. Wie ein Betriebssystem. Das beginnt mit ehrlicher Analyse: Welche Prozesse prägen den Alltag? Wo liegt die DNA des Unternehmens? Erst dann lassen sich KI-Workflows sinnvoll einführen – schrittweise, durchdacht, mit allen Beteiligten.
+
+Und eines ist entscheidend: Es geht nicht darum, Menschen zu ersetzen. Es geht darum, sie freizuspielen – für das, was sie besser können als jede Maschine: strategisch denken, kreativ lösen, Beziehungen pflegen.
+
+Nicht Effizienz um jeden Preis. Sondern Wirksamkeit.
+
+
+================================================================================
+SECTION: Der 12-Monats-Cycle
+================================================================================
+
+Label:
+Wie wir arbeiten
+
+Headline:
+Der 12-Monats-Cycle
+
+Intro:
+In zwölf Monaten begleiten wir dein Unternehmen durch vier Phasen – von der gemeinsamen Grundlage über gezielte Vertiefung bis zur konkreten Umsetzung und laufenden Weiterentwicklung. Jede Phase baut auf der vorherigen auf. So entsteht kein Strohfeuer, sondern ein System, das trägt.
+
+
+--- PHASE 01: FOUNDATION ---
+
+Title:
+Foundation
+
+Content:
+Der Eintritt in den Cycle schafft die Basis: Alle Mitarbeitenden erhalten ein gemeinsames Grundverständnis und eine gemeinsame Sprache rund um KI. So entsteht ein einheitlicher Rahmen für Rollen, Erwartungen und sichere Nutzung. Harte Vorgabe: Ohne dieses Modul darf niemand KI-Tools nutzen – als Schutz vor Datenabfluss und Halluzinationen.
+
+
+--- PHASE 02: FOCUS ---
+
+Title:
+Focus (Deep Dives)
+
+Content:
+Übersetzt das Fundament in die Fachbereiche und macht KI dort wirksam, wo sie echten Hebel bringt. Im Marketing steigern wir Reichweite und Genauigkeit, ohne die Markenidentität zu verlieren. In der Administration reduzieren orchestrierte Prozesse Reibungsverluste und sorgen für klarere Abläufe und spürbare Entlastung.
+
+
+--- PHASE 03: BUILD ---
+
+Title:
+Build
+
+Content:
+Die Phase, in der der konkrete Wert entsteht: Hier gewinnen wir Effizienz, reduzieren Aufwand und machen den ROI sichtbar. Dafür führen wir einen Backlog ein, priorisieren konsequent und setzen um. In agilen Sprints realisieren wir die Top-3 Ideen aus den Workshops, etwa durch Prozessautomatisierung oder den Bau von Bots.
+
+
+--- PHASE 04: PULSE ---
+
+Title:
+Pulse
+
+Content:
+Die Versicherung gegen Veralterung hält den Cycle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?
+
+
+================================================================================
+SECTION: Für wen ist der AI Cycle?
+================================================================================
+
+Headline:
+Für Unternehmen, die es ernst meinen.
+
+Content:
+Der AI Cycle ist nichts für Unternehmen, die nur ein paar Tools ausprobieren wollen. Er ist für alle, die verstanden haben, dass KI kein Trend ist, sondern ein strategischer Hebel.
+
+Wenn du bereit bist, Silodenken hinter dir zu lassen und dein Unternehmen konsequent auf ein AI-First-Modell auszurichten – mit deinem Team, nicht gegen es – dann ist der AI Cycle der richtige Rahmen dafür.
+
+
+================================================================================
+SECTION: Das Team
+================================================================================
+
+Label:
+Wer dahinter steht
+
+Headline:
+Unternehmer, die wissen, wie Unternehmen ticken.
+
+Content:
+Wir sind keine externen Berater, die Konzepte liefern und dann verschwinden. Wir sind Unternehmer mit jahrelanger Erfahrung in KMUs und mittelständischen Betrieben. Wir kennen die Realität von knappen Ressourcen, schnellen Entscheidungen und dem Druck, Ergebnisse zu liefern.
+
+Unser Know-how liegt in Cloud Computing, KI-Strategie und pragmatischer Umsetzung. Und unser Anspruch ist einfach: Wir bauen nichts für euch – wir bauen es mit euch.
+
+
+--- FOUNDERS ---
+
+(Folgt)
+
+
+--- ADVISORY BOARD ---
+
+(Folgt)
+
+
+================================================================================
+SECTION: Footer / Contact
+================================================================================
+
+Headline:
+Das ist dein nächster Schritt.
+
+Subline:
+Lass uns reden – offen, ehrlich und ohne Verkaufsdruck. Wenn der AI Cycle nicht zu euch passt, sagen wir das.
+
+Pricing:
+Investition: CHF 35'000 / Jahr
+
+CTA:
+Kontakt aufnehmen
+Email: contact@ai-cycle.ch
+
+
+================================================================================
+END OF MANUSCRIPT
+================================================================================
