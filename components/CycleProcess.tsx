@@ -20,7 +20,7 @@ const phases: Phase[] = [
   },
   {
     number: "04",
-    title: "PULSE",
+    title: "CHAMPIONS",
     description: "Die Versicherung gegen Veralterung hält den Cycle dauerhaft frisch. Weil sich Technologie schnell verändert, sorgt dieses Modul für regelmässige Updates und Orientierung. Alle zwei Monate gibt es ein «System-Check»-Webinar: Was ist neu, was fliegt raus, und was haben wir intern gelernt?"
   }
 ];
